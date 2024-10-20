@@ -1,0 +1,17 @@
+.receta-container {
+  text-align: left;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff3e6;
+  }
+  
+  img {
+    width: 500px;
+    height: 500px;
+   text-align: center;
+  }
+  
+  h2 {
+    color: #d35400;
+  }
+  
